@@ -2,7 +2,7 @@
 Date: 10 Nov 2026
 First prompt: Should I put my bonus of 15000 into the Aditya Birla Sun Life Mutual Fund?
 
-#response:
+# response:
 
 Before I can say anything useful, I need to know which fund you mean. Aditya Birla Sun Life is a fund house that runs dozens of schemes, from liquid and debt funds to large-cap, flexi-cap, small-cap and sectoral equity funds. They carry very different risks, so “should I invest in ABSL” has no single answer. A liquid fund and a small-cap fund are nearly different products.
 
