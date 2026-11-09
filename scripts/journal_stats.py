@@ -1,6 +1,7 @@
 import sys
 from pathlib import Path
 
+
 def read_entry(path):
     parts = path.read_text(encoding="utf-8").split("---")
     if len(parts) < 3:
@@ -9,11 +10,21 @@ def read_entry(path):
     for line in parts[1].strip().splitlines():
         if ":" in line:
             key, value = line.split(":", 1)
+            value = value.split("#", 1)[0]  # drop trailing comments
             data[key.strip()] = value.strip().lower()
     return data
 
+
 def average(numbers):
     return round(sum(numbers) / len(numbers), 1) if numbers else None
+
+
+def conf(e):
+    try:
+        return float(e.get("confidence", ""))
+    except ValueError:
+        return None
+
 
 folder = Path(sys.argv[1] if len(sys.argv) > 1 else ".")
 entries = []
@@ -21,12 +32,6 @@ for p in sorted(folder.glob("*.md")):
     e = read_entry(p)
     if e:
         entries.append(e)
-
-def conf(e):
-    try:
-        return float(e.get("confidence", ""))
-    except ValueError:
-        return None
 
 wins = [conf(e) for e in entries if e.get("outcome") == "win" and conf(e) is not None]
 losses = [conf(e) for e in entries if e.get("outcome") == "loss" and conf(e) is not None]
