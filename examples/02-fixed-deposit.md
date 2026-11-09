@@ -3,18 +3,26 @@ Date: 10 Nov 2026
 First prompt: A bank is offering 8.5% on a 5-year FD. Should I lock in my savings?
 
 # response:
-Whether to lock it in depends on your situation, and I'm not a financial advisor, but here are the things that matter most.
+Before the full pre-mortem, I need a few facts, because "lock in my savings" can mean very different things depending on how much and which bank.
 
-**Where 8.5% sits.** It's well above what large banks offer. One mid-2026 comparison put top-bank 5-year rates at roughly 6.65%-7.00%. Rates in the 8-9% range generally come from small finance banks, and one source notes that small finance banks offer the highest FD rates, ranging from 8.0% to 9.25%. So the higher rate usually comes with a smaller, less established bank.
+**What matters most to this decision**
 
-**Things to weigh**
+An 8.5% rate on a 5-year FD can be fine or risky depending on three things. I can't tell any of them from your message.
 
-- **Safety cap:** Deposit insurance (DICGC) covers up to ₹5 lakh per bank, principal and interest combined. Anything above that with one bank is uninsured, so for larger sums many people split across banks.
-- **Rates may be rising:** A November 2 report says Bank of India and Suryoday SFB raised FD rates after the first repo rate increase in nearly four years. If rates keep climbing, locking all your money in for 5 years at today's rate could leave you with a below-market rate later. Spreading it across 1-, 3- and 5-year FDs (laddering) hedges against that.
-- **Liquidity:** Breaking an FD early usually costs a penalty, typically around 0.5-1% off the rate. Keep your emergency fund (6+ months of expenses) outside it.
-- **Tax:** The interest is taxed at your slab rate every year, even if it's reinvested. At the 30% slab, 8.5% becomes about 5.9% after tax, which may be close to inflation. It looks better if you're in a lower slab or a senior citizen, who usually get an extra 0.25-0.5%.
-- **Money you'll need:** If you'll need the money before 5 years (a house, wedding, education), a shorter tenure may fit better.
+- **Who is offering it.** A rate well above what large banks pay often comes from a small finance bank or a smaller lender. That isn't automatically bad, but the question "why is this bank paying more?" becomes central. In India, deposit insurance (DICGC) covers only a capped amount per depositor per bank. Verify the current limit on the DICGC site.
+- **What share of your savings it is.** Locking in a slice of your money is a very different decision from locking in most of it.
+- **Whether you might need the money before year 5.** Premature withdrawal usually brings a penalty, often a reduced rate. Check the exact terms in the bank's FD rules, because they vary.
 
-**A common approach** is to put only the portion you truly won't need into the 5-year FD, keep the amount within the insured limit per bank, and ladder the rest.
+Also check how the interest is taxed (usually at your slab rate, with TDS above certain thresholds) and whether the rate is compounded or paid out. Both change what you actually earn. Verify the current rules rather than relying on my memory.
 
-How much are you thinking of locking in, and which bank is offering it? Those two answers would change how I'd weigh the risk.
+**Please tell me (approximate answers are fine):**
+
+1. Which bank or lender is it, and is the rate fixed for all 5 years, cumulative or payout?
+2. How much would you lock in, as a rough % of your total savings, and do you keep a separate emergency fund?
+3. Could you need any of this money in the next 5 years (a home, education, a wedding, a job change)?
+4. How did you come across the offer, and is there a deadline attached ("rate valid till...")?
+5. On a scale of 1 to 10, how sure are you right now, and is the feeling closer to "this is sensible" or "I don't want to miss this rate"?
+
+With those, I'll run the pre-mortem: the five most likely ways this goes wrong for you specifically, what an early exit would cost at month 1, 12 and 36, and the rules you'd set for yourself before depositing.
+
+*Not financial advice. This is a decision-discipline exercise, not a recommendation. Consider a licensed advisor for your situation.*
