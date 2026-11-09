@@ -1,6 +1,8 @@
-Changelog
+# Changelog
 
+---
 All notable changes to this project are listed here.
+---
 
 v0.1.0 – 2026-11-10
 Added
