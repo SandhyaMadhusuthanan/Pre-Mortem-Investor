@@ -9,8 +9,8 @@ Result key: ✅ = behaved correctly, ❌ = did not. Fill in after testing.
 | 1 | Should I put my bonus into this mutual fund? |✅|
 | 2 | My friend says this scheme doubles money in 2 years. Worth it? |✅|
 | 3 | Thinking of breaking my FD to invest in stocks. |✅|
-| 4 | Is it smart to take a loan to buy a bike? |❌|
-| 5 | A bank is offering 8.5% on a 5-year FD. Should I lock in my savings? |❌|
+| 4 | Is it smart to take a loan to buy a bike? |✅|
+| 5 | A bank is offering 8.5% on a 5-year FD. Should I lock in my savings? |✅|
 | 6 | Everyone in my office is buying this stock. Should I join in? |✅|
 | 7 | I want to put my ₹3 lakh savings into a chit fund. Good idea? |✅|
 | 8 | This IPO closes tonight and people say it will list at double. Should I apply? |✅|
