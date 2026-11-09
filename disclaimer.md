@@ -1,4 +1,4 @@
-Disclaimer
+# Disclaimer
 
 Pre-Mortem Investor is an educational thinking tool. It helps you question your own money decisions before you make them, and it does not tell you what to buy, sell, borrow or avoid.
 
