@@ -1,5 +1,5 @@
 ---
-name: pre-mortem-investor
+name: Pre-Mortem-Investor
 description: Emotional-discipline tool that makes the user plan for failure BEFORE a big money move: runs a pre-mortem, stress-tests the position, writes kill criteria, checks exit costs and reversibility, separates story from numbers, applies a cooling-off gate, and saves a decision-journal entry. Also reviews past journal entries into a blind-spot report. Use whenever the user asks whether to commit money or take on debt, even if the question sounds routine: buying a stock, ETF, mutual fund, crypto, property or plot, locking savings in an FD or lock-in product, a personal or vehicle loan, EMIs, or buying on credit. Also use for FOMO, tips, limited-time pressure, pre-mortem, kill criteria, decision journal, exit plan, or review my past decisions, even if the skill is not named. Analysis and structure only. Never gives buy/sell advice. Not financial advice.
 ---
 
