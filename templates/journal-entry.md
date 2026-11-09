@@ -1,9 +1,9 @@
 ---
-id: YYYY-MM-DD-short-slug
-date: YYYY-MM-DD
-status: open        # open | waiting | closed
-unlock_date:        # end of the cooling-off period, if any
-review_date:        # thesis expiry date
+confidence:
+outcome:
+kill_criteria_set:
+kill_criteria_followed:
+urgency_cue:
 ---
 
 # <Asset / decision>
