@@ -1,5 +1,4 @@
 ---
----
 id: YYYY-MM-DD-short-slug
 date: YYYY-MM-DD
 status: open        # open | waiting | closed
@@ -10,7 +9,6 @@ outcome:            # win | loss | pending
 kill_criteria_set:
 kill_criteria_followed:
 urgency_cue:
----
 ---
 
 # <Asset / decision>
