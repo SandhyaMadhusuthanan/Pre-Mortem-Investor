@@ -8,6 +8,13 @@ It is an **emotional-discipline tool, not a stock-picking tool**. It never tells
 
 > **Not financial advice.** This project provides analysis and structure for your own decision-making. It is not a recommendation to buy, sell or hold anything. Consider a licensed advisor for your situation.
 
+## What this is (and isn't)
+This is an educational thinking tool. It helps you question your own
+decisions. It does not give personalised investment advice and is not
+a SEBI-registered adviser. The author is not a lawyer. Before promoting
+this widely or charging for it, check SEBI's current rules on
+investment advice.
+
 ## Why
 
 Most people lose money by panic-selling, or by never defining what "wrong" looks like. A pre-mortem plus pre-committed kill criteria moves the hard thinking to before the money is in, when you're calm.
