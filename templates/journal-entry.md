@@ -10,7 +10,6 @@ kill_criteria_set:
 kill_criteria_followed:
 urgency_cue:
 ---
-
 # <Asset / decision>
 
 **Tags:** [user] = stated by the user, [skill] = derived by the skill
