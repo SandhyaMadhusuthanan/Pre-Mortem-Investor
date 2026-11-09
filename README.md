@@ -61,7 +61,7 @@ pre-mortem-investor/
 **Claude Code / Cowork (filesystem skills):** copy or clone this folder into your skills directory, e.g.
 
 ```bash
-git clone https://github.com/<you>/pre-mortem-investor.git ~/.claude/skills/pre-mortem-investor
+git clone https://github.com/SandhyaMadhusuthanan/pre-mortem-investor.git ~/.claude/skills/pre-mortem-investor
 ```
 
 **Claude.ai:** zip the folder so `SKILL.md` is inside a `pre-mortem-investor/` folder, then upload it under Settings, Skills (availability depends on your plan).
