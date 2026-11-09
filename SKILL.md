@@ -138,6 +138,8 @@ Then end with the mandatory disclaimer line.
 
 When asked to review past entries, follow `references/blind-spots.md`. Needs at least **3 entries**; with fewer, say the sample is too small and show only observations, not "patterns". Compare reasoning vs outcomes, check kill-criteria adherence, calibration, and recurring biases. Cite entry IDs for every claim. Never diagnose the user's personality. Describe behaviour in the entries.
 
+Run python scripts/journal_stats.py <journal folder> and base the report on its output. Do not count entries yourself.
+
 ## Output style
 
 - Plain language, short paragraphs, tables where they help. No hype, no jargon without a one-line explanation.
