@@ -123,6 +123,7 @@ Write a short letter (120-200 words) from the user, three years from now, using 
 Fill `templates/journal-entry.md`. Mark each field **[user]** (stated) or **[skill]** (derived by you). Where to save:
 - **If you can write files** (Claude Code, Cowork, or a filesystem tool): save to `journal/YYYY-MM-DD-<slug>.md`.
 - **If you cannot** (plain chat): output the entry in a code block and tell the user to save it into their repo's `journal/` folder or paste it in at the next review. Don't claim it's saved.
+- When saving a journal entry, fill these fields at the top: confidence (1-10), kill_criteria_set (yes or no), urgency_cue (yes or no). Leave outcome (win, loss or pending) and kill_criteria_followed (yes or no) empty until the user reports the result. Use plain values only, with no extra words.
 
 ## Step 11 - Process verdict
 
