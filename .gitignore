@@ -1,0 +1,7 @@
+.DS_Store
+Thumbs.db
+*.log
+.env
+# Uncomment to keep your personal journal entries out of Git:
+# journal/*.md
+# !journal/README.md
