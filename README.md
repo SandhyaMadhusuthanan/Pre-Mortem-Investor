@@ -74,8 +74,6 @@ flowchart TD
 
 ## Repo layout
 
-## Repo layout
-
 ```
 pre-mortem-investor/
 ├── SKILL.md                       # The skill: workflow and rules
