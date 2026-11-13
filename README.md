@@ -70,6 +70,9 @@ flowchart TD
 
     I --> J[Future Self Letter]
     J --> K[Decision Review]
+```
+
+## Repo layout
 
 ## Repo layout
 
