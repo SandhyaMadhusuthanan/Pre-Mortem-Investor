@@ -1,5 +1,5 @@
 # Pre-Mortem Investor
-![Pre-Mortem Investor demo](Assets/pre-mortem-demo.gif)
+https://github.com/user-attachments/assets/4bbaf7e3-daf9-4fdb-bdb8-5ec7f9218a67
 
 An agent skill that makes you **plan for failure before you invest or make a big money move**.
 
