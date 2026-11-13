@@ -14,12 +14,6 @@ Tell the agent what you're about to buy: a stock, fund, property deposit, fixed 
 
 ![GitHub last commit](https://img.shields.io/github/last-commit/SandhyaMadhusuthanan/Pre-Mortem-Investor?style=for-the-badge)
 
-## Project Demo
-
-<p align="center">
-  <img src="assets/demo.gif" width="850" alt="Pre-Mortem Investor demonstration">
-</p>
-
 It is an **emotional-discipline tool, not a stock-picking tool**. It never tells you what to buy or sell.
 
 > **Not financial advice.** This project provides analysis and structure for your own decision-making. It is not a recommendation to buy, sell or hold anything. Consider a licensed advisor for your situation.
