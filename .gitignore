@@ -1,6 +1,16 @@
+```gitignore
+# Operating system files
 .DS_Store
 Thumbs.db
+
+# Logs
 *.log
+
+# Environment variables
 .env
-# Uncomment to keep your personal journal entries out of Git:
-# !journal/README.md
+.env.*
+
+# Personal financial journal entries
+journal/*
+!journal/.gitkeep
+!journal/README.md
