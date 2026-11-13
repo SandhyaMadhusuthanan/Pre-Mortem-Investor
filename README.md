@@ -55,19 +55,19 @@ Most people lose money by panic-selling, or by never defining what "wrong" looks
 ```mermaid
 flowchart TD
     A[User] --> B[Pre-Mortem Investor]
-    
+
     B --> C[Investment Analysis]
     B --> D[Risk Assessment]
     B --> E[Stress Testing]
-    
+
     C --> F[Failure Scenarios]
     D --> G[Kill Criteria]
     E --> H[Blind Spot Analysis]
-    
+
     F --> I[Decision Journal]
     G --> I
     H --> I
-    
+
     I --> J[Future Self Letter]
     J --> K[Decision Review]
 
