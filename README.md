@@ -50,6 +50,27 @@ Most people lose money by panic-selling, or by never defining what "wrong" looks
 | Blind-Spot Report | Reads your journal and shows recurring biases, citing the entries |
 | Future-Self Letter | A short note from you in 3 years, built from your own goals and limits |
 
+## Architecture
+
+```mermaid
+flowchart TD
+    A[User] --> B[Pre-Mortem Investor]
+    
+    B --> C[Investment Analysis]
+    B --> D[Risk Assessment]
+    B --> E[Stress Testing]
+    
+    C --> F[Failure Scenarios]
+    D --> G[Kill Criteria]
+    E --> H[Blind Spot Analysis]
+    
+    F --> I[Decision Journal]
+    G --> I
+    H --> I
+    
+    I --> J[Future Self Letter]
+    J --> K[Decision Review]
+
 ## Repo layout
 
 ```
