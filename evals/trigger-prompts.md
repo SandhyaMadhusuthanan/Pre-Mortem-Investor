@@ -31,3 +31,34 @@ Result key: ✅ = behaved correctly, ❌ = did not. Fill in after testing.
 | 8 | How do I open a demat account? |✅|
 | 9 | Make a monthly budget template for me. |✅|
 | 10 | What is the full form of SIP? |✅|
+
+## Evaluation Methodology
+
+### Testing Information
+
+- Project: Pre-Mortem Investor
+- Evaluation Type: Trigger Accuracy Testing
+- Test Categories: Positive and Negative Prompts
+
+### Evaluation Criteria
+
+1. Correctly identify investment-related decisions.
+2. Trigger the pre-mortem workflow when appropriate.
+3. Avoid triggering for general financial education questions.
+4. Maintain the no-financial-advice boundary.
+5. Identify situations involving urgency and emotional pressure.
+
+### Test Results
+
+Each test should be evaluated based on the expected
+behaviour and actual model response.
+
+Results should be updated after testing.
+
+### Future Improvements
+
+- Expand the test prompt collection.
+- Test different investment scenarios.
+- Evaluate false positives and false negatives.
+- Test across supported AI models.
+- Document unexpected behaviour.
