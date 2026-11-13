@@ -2,8 +2,17 @@
 https://github.com/user-attachments/assets/4bbaf7e3-daf9-4fdb-bdb8-5ec7f9218a67
 
 An agent skill that makes you **plan for failure before you invest or make a big money move**.
+Think Before You Invest. Plan Before You Commit
 
 Tell the agent what you're about to buy: a stock, fund, property deposit, fixed deposit or loan. It assumes the move failed, stress-tests your position, writes exit rules you commit to in advance, and saves a decision-journal entry. Later it reviews your past entries and shows your recurring blind spots.
+
+![GitHub stars](https://img.shields.io/github/stars/SandhyaMadhusuthanan/Pre-Mortem-Investor?style=for-the-badge&color=yellow)
+
+![GitHub forks](https://img.shields.io/github/forks/SandhyaMadhusuthanan/Pre-Mortem-Investor?style=for-the-badge)
+
+![GitHub license](https://img.shields.io/github/license/SandhyaMadhusuthanan/Pre-Mortem-Investor?style=for-the-badge)
+
+![GitHub last commit](https://img.shields.io/github/last-commit/SandhyaMadhusuthanan/Pre-Mortem-Investor?style=for-the-badge)
 
 It is an **emotional-discipline tool, not a stock-picking tool**. It never tells you what to buy or sell.
 
